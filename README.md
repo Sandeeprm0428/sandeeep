@@ -36,8 +36,6 @@ ProjectRoot
 ├── src
 │   └── main.cpp
 │
-├── include
-│
 └── build
 </pre>
 
